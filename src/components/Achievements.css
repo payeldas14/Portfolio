@@ -51,7 +51,7 @@
   border-top-color: #FFD700;
 }
 
-.achievement-card.certification {
+.achievement-card.certificate {
   border-top-color: #FF9800;
 }
 
@@ -147,8 +147,8 @@
   background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
 }
 
-/* Special styling for certification card */
-.achievement-card.certification .achievement-icon-wrapper {
+/* Special styling for certificate card */
+.achievement-card.certificate .achievement-icon-wrapper {
   background: linear-gradient(135deg, #FF9800 0%, #FF6F00 100%);
 }
 
