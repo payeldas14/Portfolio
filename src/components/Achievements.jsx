@@ -17,7 +17,7 @@ const Achievements = () => {
       icon: <SiAmazonaws />,
       title: "AWS Cloud Practitioner",
       organization: "Amazon Web Services",
-      date: "Nov 2024",
+      date: "Nov 2025",
       description: "Certificate in Amazon Web Services Cloud Practitioner - foundational understanding of AWS Cloud concepts, services, and terminology.",
       type: "certificate"
     },
@@ -25,7 +25,7 @@ const Achievements = () => {
       icon: <SiGooglecloud />,
       title: "Prompt Design in Vertex AI",
       organization: "Google Cloud",
-      date: "Nov 2024",
+      date: "Nov 2025",
       description: "Google Cloud Badge demonstrating proficiency in prompt engineering and design using Vertex AI for advanced AI/ML applications.",
       type: "badge"
     }
