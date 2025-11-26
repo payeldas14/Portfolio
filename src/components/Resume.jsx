@@ -46,7 +46,7 @@ const Resume = () => {
             </div>
 
             <a 
-              href="/Payel_Das_Resume.pdf" 
+              href={`${import.meta.env.BASE_URL}Payel_Das_Resume.pdf`}
               download="Payel_Das_Resume.pdf" 
               className="download-btn"
             >
